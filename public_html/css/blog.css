@@ -28,17 +28,10 @@ main {
 html {
     font-family: 'Inconsolata';
   }
-  
-  header, main, footer {
-      padding-left: 240px;
-    }
-
-    @media only screen and (max-width : 992px) {
-      header, main, footer {
-        padding-left: 0;
-      }
-    }
     .content {
         padding-top: 57px;
         padding-left: 10px;
+    }
+    .brand-logo {
+        margin-right: 0px;
     }
