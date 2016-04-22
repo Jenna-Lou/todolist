@@ -32,8 +32,8 @@ function Posts (args) {
 }
 
  $('.dropdown-button').dropdown({
-      inDuration: 200,
-      outDuration: 125,
+      inDuration: 300,
+      outDuration: 225,
       constrain_width: false, // Does not change width of dropdown to that of the activator
       hover: true, // Activate on hover
       gutter: 0, // Spacing from edge
