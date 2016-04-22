@@ -26,12 +26,9 @@ main {
 }
 
 html {
-    font-family: 'Inconsolata';
+   font-family: 'Coming Soon', cursive;
   }
     .content {
         padding-top: 57px;
         padding-left: 10px;
-    }
-    .brand-logo {
-        margin-right: 0px;
     }
